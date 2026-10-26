@@ -1,0 +1,2 @@
+Most Specific Hypothesis:
+['Sunny', 'Warm', '?', 'Strong', '?', '?']
